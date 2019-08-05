@@ -1,0 +1,105 @@
+.nav-grad{
+  float: left;
+  background-color: #2D61B7 !important;
+  }
+.banenrimg{
+  width: 100%;
+  height: auto;
+}
+.scroll-nav{
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  color: white;
+}
+.scroll-nav ul{
+  align-items: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  .imgsize100{
+    width: 100%;
+
+  }
+.centerimg{
+margin-left: auto;
+margin-right: auto;
+padding-top: 50px;
+
+}
+.scroll-nav li {
+    display: inline;
+    padding-right: 50px;
+  }
+.brands-attending{
+width: 100%;
+}
+.brand-logo{
+  height: 100%;
+}
+.title{
+  padding-top: 30px;
+  color: white;
+}
+.floorplanimg{
+width: 100%;
+height: 100%;
+padding-bottom: 10px;
+}
+.columnstage {
+  float: left;
+  width: 50%;
+  padding: 10px;
+padding-bottom: 50px;
+}
+.columnatt {
+  float: left;
+  width: 33%;
+  padding: 10px;
+padding-bottom: 50px;
+}
+.footer-logo{
+height: 25%;
+width: 100%;
+}
+.centerbtn{
+  margin-left: auto;
+  margin-right: auto;
+}
+.mainbodyarea{
+background-color: #60092B;
+}
+
+.mainbodyarea h1{
+  color: white;
+  text-align: center;
+}
+.mainbodyarea h3{
+  color: white;
+  text-align: center;
+}
+.event-logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35% ;
+  height: auto;
+  align: center;
+
+}
+#topbtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 20px;
+  background-color: #85E0FF;
+  color: white;
+  cursor: pointer;
+
+}
+#topbtn:hover {
+  background-color: #5AC2FF;
+}
